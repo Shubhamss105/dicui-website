@@ -14,8 +14,8 @@ import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "Next.js Starter Template for SaaS Startups - DiCui SaaS Boilerplate",
-  description: "This is Home for DiCui Pro",
+  title: "DiCui - Restaurant Management Software",
+  description: "Restaurant Management Software",
   // other metadata
 };
 
@@ -23,7 +23,7 @@ export default function Home() {
   return (
     <main>
       <Hero />
-      <Brands />
+      {/* <Brands /> */}
       <Feature />
       <About />
       <FeaturesTab />

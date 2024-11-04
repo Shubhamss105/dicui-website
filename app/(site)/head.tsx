@@ -1,9 +1,9 @@
 export default function Head() {
   return (
     <>
-      <title> DiCui | Next.js Template for Startup and SaaS</title>
+      <title> DiCui-Restaurant Management System</title>
       <meta content="width=device-width, initial-scale=1" name="viewport" />
-      <meta name="description" content="Built with Next.js and TypeScript" />
+      <meta name="description" content="DiCui-Restaurant Management System" />
       <link rel="icon" href="/images/favicon.ico" />
     </>
   );
