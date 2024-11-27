@@ -25,7 +25,7 @@ const Hero = () => {
                 </span> */}
               </h1>
               <p>
-              Welcome to DiCui – the ultimate restaurant management solution designed to streamline your business, boost customer satisfaction, and maximize profitability. Our all-in-one platform makes it simple to manage orders, monitor sales, and enhance customer experience, so you can focus on what truly matters: delivering great food and unforgettable service.
+              Streamline every part of your restaurant’s operations with DiCui. From seamless order management to easy data access, DiCui empowers you to run your business efficiently and with ease. Transform the way you manage your restaurant and focus on what matters most—your customers.
               </p>
 
               <div className="mt-10">

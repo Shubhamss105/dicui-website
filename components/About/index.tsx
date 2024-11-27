@@ -72,7 +72,7 @@ const About = () => {
                 </span> */}
               </h2>
               <p>
-              Whether you run a cozy café, a fine-dining establishment, or a fast-food chain, [Your Brand Name] is built to scale with your business. Our platform adapts to your unique needs, helping you provide an exceptional experience to each customer while driving growth.
+              DiCui is designed for restaurants of all sizes, from small cafes to bustling chains. Whether you’re a startup or an established restaurant, DiCui’s advanced management tools help boost productivity and customer satisfaction. Join us to make your restaurant operations smoother and smarter.
 
 
               </p>

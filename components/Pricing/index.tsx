@@ -14,7 +14,7 @@ const Pricing = () => {
               headerInfo={{
                 title: `PRICING PLANS`,
                 subtitle: `Simple Pricing`,
-                description: `Lorem ipsum dolor sit amet, consectetur adipiscing elit. In convallis tortor eros. Donec vitae tortor lacus. Phasellus aliquam ante in maximus.`,
+                description: `With DiCui’s straightforward pricing, you get full access to advanced restaurant management features without hidden costs. Enjoy transparent pricing tailored for restaurants of all sizes and unlock powerful tools at an affordable rate.`,
               }}
             />
           </div>
