@@ -11,7 +11,7 @@ import FAQ from "@/components/FAQ";
 import Pricing from "@/components/Pricing";
 import Contact from "@/components/Contact";
 import Blog from "@/components/Blog";
-import Testimonial from "@/components/Testimonial";
+import OurFeatures from "@/components/OurFeatures";
 
 export const metadata: Metadata = {
   title: "DQ - Restaurant Management Software",
@@ -25,6 +25,7 @@ export default function Home() {
       <Hero />
       {/* <Brands /> */}
       <Feature />
+      <OurFeatures/>
       <About />
       <FeaturesTab />
       <FunFact />
