@@ -3,8 +3,8 @@ import BlogItem from "@/components/Blog/BlogItem";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Blog Page - DiCui SaaS Boilerplate",
-  description: "This is Blog page for DiCui Pro",
+  title: "Blog Page - DQ SaaS Boilerplate",
+  description: "This is Blog page for DQ Pro",
   // other metadata
 };
 

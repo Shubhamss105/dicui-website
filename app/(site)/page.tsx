@@ -14,7 +14,7 @@ import Blog from "@/components/Blog";
 import Testimonial from "@/components/Testimonial";
 
 export const metadata: Metadata = {
-  title: "DiCui - Restaurant Management Software",
+  title: "DQ - Restaurant Management Software",
   description: "Restaurant Management Software",
   // other metadata
 };

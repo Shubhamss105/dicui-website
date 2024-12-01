@@ -2,8 +2,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Error Page - DiCui SaaS Boilerplate",
-  description: "This is Error page for DiCui Pro",
+  title: "Error Page - DQ SaaS Boilerplate",
+  description: "This is Error page for DQ Pro",
   // other metadata
 };
 

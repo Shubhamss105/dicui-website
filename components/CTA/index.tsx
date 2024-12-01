@@ -32,7 +32,7 @@ const CTA = () => {
               Ready to Revolutionize Your Restaurant?
               </h2>
               <p>
-              Join thousands of restaurant owners who trust DiCui to take their business to the next level. Let us help you simplify operations, cut costs, and boost your profits.
+              Join thousands of restaurant owners who trust DQ to take their business to the next level. Let us help you simplify operations, cut costs, and boost your profits.
               </p>
             </motion.div>
             <motion.div

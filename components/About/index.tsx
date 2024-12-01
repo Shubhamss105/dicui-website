@@ -66,13 +66,13 @@ const About = () => {
                 SaaS Boilerplate for Next.js
               </span> */}
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
-              Who Is DiCui for?
+              Who Is DQ for?
                 {/* <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg dark:before:bg-titlebgdark">
                   SaaS Startup
                 </span> */}
               </h2>
               <p>
-              DiCui is designed for restaurants of all sizes, from small cafes to bustling chains. Whether you’re a startup or an established restaurant, DiCui’s advanced management tools help boost productivity and customer satisfaction. Join us to make your restaurant operations smoother and smarter.
+              DQ is designed for restaurants of all sizes, from small cafes to bustling chains. Whether you’re a startup or an established restaurant, DQ’s advanced management tools help boost productivity and customer satisfaction. Join us to make your restaurant operations smoother and smarter.
 
 
               </p>
@@ -137,11 +137,11 @@ const About = () => {
               <h2 className="relative mb-6 text-3xl font-bold text-black dark:text-white xl:text-hero">
               Why Restaurants Love {"   "}
                 <span className="relative inline-block before:absolute before:bottom-2.5 before:left-0 before:-z-1 before:h-3 before:w-full before:bg-titlebg2 dark:before:bg-titlebgdark">
-                  DiCui?
+                  DQ?
                 </span>
               </h2>
               <p>
-              Our mission is to empower restaurants with the tools they need to thrive in a competitive industry. With DiCui, you’ll have a reliable partner to help streamline operations, attract more customers, and increase profitability – all through an easy-to-use, all-in-one platform. Our solution is designed to adapt as your business grows, whether you have one location or a hundred.
+              Our mission is to empower restaurants with the tools they need to thrive in a competitive industry. With DQ, you’ll have a reliable partner to help streamline operations, attract more customers, and increase profitability – all through an easy-to-use, all-in-one platform. Our solution is designed to adapt as your business grows, whether you have one location or a hundred.
               </p>
               {/* <div>
                 <a

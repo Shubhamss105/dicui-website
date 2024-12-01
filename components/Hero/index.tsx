@@ -25,7 +25,7 @@ const Hero = () => {
                 </span> */}
               </h1>
               <p>
-              Streamline every part of your restaurant’s operations with DiCui. From seamless order management to easy data access, DiCui empowers you to run your business efficiently and with ease. Transform the way you manage your restaurant and focus on what matters most—your customers.
+              Streamline every part of your restaurant’s operations with DQ. From seamless order management to easy data access, DQ empowers you to run your business efficiently and with ease. Transform the way you manage your restaurant and focus on what matters most—your customers.
               </p>
 
               <div className="mt-10">
@@ -36,7 +36,7 @@ const Hero = () => {
                       onChange={(e) => setEmail(e.target.value)}
                       type="text"
                       placeholder="Enter your email address"
-                      className="rounded-full border border-stroke px-6 py-2.5 shadow-DiCui-2 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
+                      className="rounded-full border border-stroke px-6 py-2.5 shadow-DQ-2 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
                     />
                     <button
                       aria-label="get started button"
@@ -76,13 +76,13 @@ const Hero = () => {
                 />
                 <div className=" relative aspect-[700/444] w-full">
                   <Image
-                    className="shadow-DiCui-l dark:hidden"
+                    className="shadow-DQ-l dark:hidden"
                     src="/images/hero/hero-light.svg"
                     alt="Hero"
                     fill
                   />
                   <Image
-                    className="hidden shadow-DiCui-l dark:block"
+                    className="hidden shadow-DQ-l dark:block"
                     src="/images/hero/hero-dark.svg"
                     alt="Hero"
                     fill

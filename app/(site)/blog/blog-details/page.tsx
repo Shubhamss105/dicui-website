@@ -4,8 +4,8 @@ import { Metadata } from "next";
 import Image from "next/image";
 
 export const metadata: Metadata = {
-  title: "Blog Details Page - DiCui SaaS Boilerplate",
-  description: "This is Blog details page for DiCui Pro",
+  title: "Blog Details Page - DQ SaaS Boilerplate",
+  description: "This is Blog details page for DQ Pro",
   // other metadata
 };
 
@@ -16,7 +16,7 @@ const SingleBlogPage = async () => {
         <div className="mx-auto max-w-c-1390 px-4 md:px-8 2xl:px-0">
           <div className="flex flex-col-reverse gap-7.5 lg:flex-row xl:gap-12.5">
             <div className="md:w-1/2 lg:w-[32%]">
-              <div className="animate_top mb-10 rounded-md border border-stroke bg-white p-3.5 shadow-DiCui-13 dark:border-strokedark dark:bg-blacksection">
+              <div className="animate_top mb-10 rounded-md border border-stroke bg-white p-3.5 shadow-DQ-13 dark:border-strokedark dark:bg-blacksection">
                 <form
                   action="https://formbold.com/s/unique_form_id"
                   method="POST"
@@ -25,7 +25,7 @@ const SingleBlogPage = async () => {
                     <input
                       type="text"
                       placeholder="Search Here..."
-                      className="w-full rounded-lg border border-stroke px-6 py-4 shadow-DiCui-12 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
+                      className="w-full rounded-lg border border-stroke px-6 py-4 shadow-DQ-12 focus:border-primary focus:outline-none dark:border-strokedark dark:bg-black dark:shadow-none dark:focus:border-primary"
                     />
 
                     <button
@@ -47,7 +47,7 @@ const SingleBlogPage = async () => {
                 </form>
               </div>
 
-              <div className="animate_top mb-10 rounded-md border border-stroke bg-white p-9 shadow-DiCui-13 dark:border-strokedark dark:bg-blacksection">
+              <div className="animate_top mb-10 rounded-md border border-stroke bg-white p-9 shadow-DQ-13 dark:border-strokedark dark:bg-blacksection">
                 <h4 className="mb-7.5 text-2xl font-semibold text-black dark:text-white">
                   Categories
                 </h4>
@@ -75,7 +75,7 @@ const SingleBlogPage = async () => {
             </div>
 
             <div className="lg:w-2/3">
-              <div className="animate_top rounded-md border border-stroke bg-white p-7.5 shadow-DiCui-13 dark:border-strokedark dark:bg-blacksection md:p-10">
+              <div className="animate_top rounded-md border border-stroke bg-white p-7.5 shadow-DQ-13 dark:border-strokedark dark:bg-blacksection md:p-10">
                 <div className="mb-10 w-full overflow-hidden ">
                   <div className="relative aspect-[97/60] w-full sm:aspect-[97/44]">
                     <Image

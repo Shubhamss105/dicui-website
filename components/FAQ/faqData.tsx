@@ -3,7 +3,7 @@ import { FAQ } from "@/types/faq";
 const faqData: FAQ[] = [
   {
     id: 1,
-    quest: "How easy is it to implement DiCui in my restaurant?",
+    quest: "How easy is it to implement DQ in my restaurant?",
     ans: "We offer a user-friendly setup with comprehensive onboarding support. Our team will guide you every step of the way to ensure a seamless transition to digital management.",
   },
   {

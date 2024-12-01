@@ -3,8 +3,8 @@ import Contact from "@/components/Contact";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Support Page - DiCui SaaS Boilerplate",
-  description: "This is Support page for DiCui Pro",
+  title: "Support Page - DQ SaaS Boilerplate",
+  description: "This is Support page for DQ Pro",
   // other metadata
 };
 

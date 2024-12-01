@@ -13,7 +13,7 @@ const Integration = () => {
             headerInfo={{
               title: `INTEGRATIONS`,
               subtitle: `Remotely Maintain Your Data, From Anywhere, Anytime.`,
-              description: `Access and manage your restaurant’s data anytime, from anywhere with DiCui. Stay connected and make informed decisions on the go, knowing that your data is securely stored and easily accessible.
+              description: `Access and manage your restaurant’s data anytime, from anywhere with DQ. Stay connected and make informed decisions on the go, knowing that your data is securely stored and easily accessible.
 `,
             }}
           />
@@ -58,7 +58,7 @@ const Integration = () => {
               viewport={{ once: true }}
               className="animate_top w-1/6"
             >
-              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DiCui-7 dark:bg-btndark">
+              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DQ-7 dark:bg-btndark">
                 <Image
                   width={50}
                   height={50}
@@ -105,7 +105,7 @@ const Integration = () => {
               viewport={{ once: true }}
               className="animate_top w-1/6"
             >
-              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DiCui-7 dark:bg-btndark">
+              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DQ-7 dark:bg-btndark">
                 <Image
                   width={50}
                   height={50}
@@ -154,7 +154,7 @@ const Integration = () => {
               viewport={{ once: true }}
               className="animate_top w-1/6"
             >
-              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DiCui-7 dark:bg-btndark">
+              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DQ-7 dark:bg-btndark">
                 <Image
                   width={50}
                   height={50}
@@ -222,7 +222,7 @@ const Integration = () => {
               viewport={{ once: true }}
               className="animate_top w-1/6"
             >
-              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DiCui-7 dark:bg-btndark">
+              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DQ-7 dark:bg-btndark">
                 <Image
                   width={50}
                   height={50}
@@ -271,7 +271,7 @@ const Integration = () => {
               viewport={{ once: true }}
               className="animate_top w-1/6"
             >
-              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DiCui-7 dark:bg-btndark">
+              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DQ-7 dark:bg-btndark">
                 <Image
                   width={50}
                   height={50}
@@ -320,7 +320,7 @@ const Integration = () => {
               viewport={{ once: true }}
               className="animate_top w-1/6"
             >
-              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DiCui-7 dark:bg-btndark">
+              <div className="inline-block rounded-[10px] bg-white p-4.5 shadow-DQ-7 dark:bg-btndark">
                 <Image
                   width={50}
                   height={50}

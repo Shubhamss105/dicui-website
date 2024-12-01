@@ -2,8 +2,8 @@ import SidebarLink from "@/components/Docs/SidebarLink";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Docs Page - DiCui SaaS Boilerplate",
-  description: "This is Docs page for DiCui Pro",
+  title: "Docs Page - DQ SaaS Boilerplate",
+  description: "This is Docs page for DQ Pro",
   // other metadata
 };
 
@@ -14,7 +14,7 @@ export default function DocsPage() {
         <div className="container mx-auto">
           <div className="-mx-4 flex flex-wrap">
             <div className="w-full px-4 lg:w-1/4">
-              <div className="sticky top-[74px] rounded-lg border border-white p-4 shadow-DiCui-4  transition-all  dark:border-strokedark dark:bg-blacksection">
+              <div className="sticky top-[74px] rounded-lg border border-white p-4 shadow-DQ-4  transition-all  dark:border-strokedark dark:bg-blacksection">
                 <ul className="space-y-2">
                   <SidebarLink />
                 </ul>

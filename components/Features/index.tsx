@@ -13,9 +13,9 @@ const Feature = () => {
           {/* <!-- Section Title Start --> */}
           <SectionHeader
             headerInfo={{
-              title: "DICUI FEATURES",
-              subtitle: "Why Choose Dicui",
-              description: `At DiCui, we’re committed to helping restaurants of all sizes deliver exceptional service effortlessly. `,
+              title: "DQ FEATURES",
+              subtitle: "Why Choose DQ",
+              description: `At DQ, we’re committed to helping restaurants of all sizes deliver exceptional service effortlessly. `,
             }}
           />
           {/* <!-- Section Title End --> */}

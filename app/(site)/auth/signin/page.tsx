@@ -2,7 +2,7 @@ import Signin from "@/components/Auth/Signin";
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Login Page - DiCui SaaS Boilerplate",
+  title: "Login Page - DQ SaaS Boilerplate",
   description: "This is Login page for Startup Pro",
   // other metadata
 };
