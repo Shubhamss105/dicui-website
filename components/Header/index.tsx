@@ -41,15 +41,15 @@ const Header = () => {
             <Image
               src="/images/logo/logo-dark.png"
               alt="logo"
-              width={119.03}
-              height={20}
+              width={50}
+              height={50}
               className="hidden w-full dark:block"
             />
             <Image
               src="/images/logo/logo-light.png"
               alt="logo"
-              width={119.03}
-              height={20}
+              width={50}
+              height={50}
               className="w-full dark:hidden"
             />
           </a>
