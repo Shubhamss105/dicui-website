@@ -25,13 +25,14 @@ const Header = () => {
 
   useEffect(() => {
     window.addEventListener("scroll", handleStickyMenu);
-  });
+    return () => window.removeEventListener("scroll", handleStickyMenu);
+  }, []);
 
   return (
     <header
-      className={`fixed left-0 top-0 z-99999 w-full py-7 ${
+      className={`fixed left-0 top-0 z-99999 w-full py-4 ${
         stickyMenu
-          ? "bg-white !py-4 shadow transition duration-100 dark:bg-black"
+          ? "bg-white !py-3 shadow transition duration-100 dark:bg-black"
           : ""
       }`}
     >
@@ -41,20 +42,20 @@ const Header = () => {
             <Image
               src="/images/logo/logo-dark.png"
               alt="logo"
-              width={50}
-              height={50}
-              className="hidden w-full dark:block"
+              width={40} // Adjusted size
+              height={40} // Adjusted size
+              className="hidden dark:block"
             />
             <Image
               src="/images/logo/logo-light.png"
               alt="logo"
-              width={50}
-              height={50}
-              className="w-full dark:hidden"
+              width={40} // Adjusted size
+              height={40} // Adjusted size
+              className="dark:hidden"
             />
           </a>
 
-          {/* <!-- Hamburger Toggle BTN --> */}
+          {/* Hamburger Toggle BTN */}
           <button
             aria-label="hamburger Toggler"
             className="block xl:hidden"
@@ -92,10 +93,10 @@ const Header = () => {
               </span>
             </span>
           </button>
-          {/* <!-- Hamburger Toggle BTN --> */}
+          {/* Hamburger Toggle BTN */}
         </div>
 
-        {/* Nav Menu Start   */}
+        {/* Nav Menu Start */}
         <div
           className={`invisible h-0 w-full items-center justify-between xl:visible xl:flex xl:h-auto xl:w-full ${
             navigationOpen &&
@@ -154,13 +155,6 @@ const Header = () => {
           <div className="mt-7 flex items-center gap-6 xl:mt-0">
             <ThemeToggler />
 
-            {/* <Link
-              href="https://github.com/NextJSTemplates/DQ-nextjs"
-              className="text-regular font-medium text-waterloo hover:text-primary"
-            >
-              GitHub Repo 🌟
-            </Link> */}
-
             <Link
               href="https://admin.letsdq.com/"
               target="_blank"
@@ -174,7 +168,5 @@ const Header = () => {
     </header>
   );
 };
-
-// w-full delay-300
 
 export default Header;

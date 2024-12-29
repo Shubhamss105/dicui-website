@@ -3,8 +3,10 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  output: 'export',
   images: {
-    domains: ["localhost"],
+    unoptimized: true, 
+    domains: ["localhost","letsdq.com"],
     remotePatterns: [
       {
         protocol: "https",
@@ -13,6 +15,8 @@ const nextConfig = {
       },
     ],
   },
+  assetPrefix: 'https://letsdq.com' || '', 
+  trailingSlash: true,
 };
 
 module.exports = nextConfig;
