@@ -85,9 +85,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    React 18, Next.js 13 and TypeScript
+                  Streamlined Operations
                   </h3>
-                  <p>Ut ultricies lacus non fermentum ultrices.</p>
+                  <p>Simplify restaurant management with tools for order tracking, staff coordination, and real-time inventory updates, ensuring efficiency at every level.</p>
                 </div>
               </div>
               <div className="mt-7.5 flex items-center gap-5">
@@ -98,9 +98,9 @@ const About = () => {
                 </div>
                 <div className="w-3/4">
                   <h3 className="mb-0.5 text-metatitle2 text-black dark:text-white">
-                    Fully Customizable
+                  Customized for Your Needs
                   </h3>
-                  <p>consectetur adipiscing elit fermentum ultricies.</p>
+                  <p>Adapt the system to match your restaurant's unique requirements, from personalized menu management to tailored reporting and analytics.</p>
                 </div>
               </div>
             </motion.div>
